@@ -1,0 +1,2 @@
+sch2sym -intstyle ise -family spartan6 -refsym Mux16_4 {C:/Users/N115P/OneDrive KMITL/OneDrive - KMITL/2D_S1/Digital System Fundamentals/Labs/Lab08/Digital_Locker/Mux16_4.sch} {C:/Users/N115P/OneDrive KMITL/OneDrive - KMITL/2D_S1/Digital System Fundamentals/Labs/Lab08/Digital_Locker/Mux16_4.sym} 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl Mux16_4_drc.vhf -w {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/Mux16_4.sch} 

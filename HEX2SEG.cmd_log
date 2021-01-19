@@ -1,0 +1,6 @@
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl HEX2SEG_drc.vhf -w D:/iseproject/passwordChecker/HEX2SEG.sch 
+sch2sym -intstyle ise -family spartan6 -refsym HEX2SEG D:/iseproject/passwordChecker/HEX2SEG.sch D:/iseproject/passwordChecker/HEX2SEG.sym 
+sch2sym -intstyle ise -family spartan6 -w -refsym HEX2SEG D:/iseproject/passwordChecker/HEX2SEG.sch D:/iseproject/passwordChecker/HEX2SEG.sym 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl HEX2SEG_drc.vhf -w {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/HEX2SEG.sch} 
+sch2sym -intstyle ise -family spartan6 -refsym HEX2SEG {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/HEX2SEG.sch} {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/HEX2SEG.sym} 
+sch2sym -intstyle ise -family spartan6 -w -refsym HEX2SEG {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/HEX2SEG.sch} {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/HEX2SEG.sym} 

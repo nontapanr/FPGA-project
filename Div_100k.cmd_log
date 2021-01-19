@@ -1,0 +1,3 @@
+sch2sym -intstyle ise -family spartan6 -refsym Div_100k {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/Div_100k.sch} {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/Div_100k.sym} 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl Div_100k_drc.vhf -w {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/Div_100k.sch} 
+sch2sym -intstyle ise -family spartan6 -w -refsym Div_100k {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/Div_100k.sch} {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/Div_100k.sym} 

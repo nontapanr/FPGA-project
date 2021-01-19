@@ -1,0 +1,55 @@
+NET "CLK" LOC = P123;
+
+NET "Comm[3]" LOC = P30;
+NET "Comm[2]" LOC = P33;
+NET "Comm[1]" LOC = P43;
+NET "Comm[0]" LOC = P44;
+NET "Segment[6]" LOC = P27;
+NET "Segment[5]" LOC = P29;
+NET "Segment[4]" LOC = P32;
+NET "Segment[3]" LOC = P34;
+NET "Segment[2]" LOC = P35;
+NET "Segment[1]" LOC = P40;
+NET "Segment[0]" LOC = P41;
+
+NET "Pass_D0_b0_p59" LOC = P59;
+NET "Pass_D0_b1_p61" LOC = P61;
+NET "Pass_D0_b2_p62" LOC = P62;
+NET "Pass_D0_b3_p66" LOC = P66;
+NET "Pass_D1_b0_p55" LOC = P55;
+NET "Pass_D1_b1_p56" LOC = P56;
+NET "Pass_D1_b2_p57" LOC = P57;
+NET "Pass_D1_b3_p58" LOC = P58;
+NET "Buzzer_p83" LOC = P83;
+NET "Pass_D2_b0_p102" LOC = P102;
+NET "Pass_D2_b1_p101" LOC = P101;
+NET "Pass_D2_b2_p100" LOC = P100;
+NET "Pass_D2_b3_p99" LOC = P99;
+NET "Pass_D3_b0_p112" LOC = P112;
+NET "Pass_D3_b1_p111" LOC = P111;
+NET "Pass_D3_b2_p105" LOC = P105;
+NET "Pass_D3_b3_p104" LOC = P104;
+
+
+NET "A_p126" LOC = P126;
+NET "B_p131" LOC = P131;
+NET "C_p133" LOC = P133;
+NET "COMMON0_p117" LOC = P117;
+NET "COMMON1_p116" LOC = P116;
+NET "COMMON2_p115" LOC = P115;
+NET "COMMON3_p114" LOC = P114;
+NET "D_p137" LOC = P137;
+NET "E_p139" LOC = P139;
+NET "F_p141" LOC = P141;
+NET "G_p143" LOC = P143;
+
+# PlanAhead Generated physical constraints 
+
+NET "Arduino_bit0_p24" LOC = P24;
+NET "Arduino_bit1_p22" LOC = P22;
+NET "Arduino_bit2_p17" LOC = P17;
+NET "Arduino_bit3_p15" LOC = P15;
+NET "Arduino_bit4_p12" LOC = P12;
+NET "Arduino_Clear_p10" LOC = P10;
+NET "Arduino_Enter_p8" LOC = P8;
+NET "Locker_p6" LOC = P6;
