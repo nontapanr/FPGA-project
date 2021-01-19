@@ -1,4 +1,3 @@
 # FPGA-project
 
-DIGITAL SYSTEM FUNDAMENTALS 
-KMITL 2020
+Digital Locker Project
