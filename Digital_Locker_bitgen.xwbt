@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.ncd
+OUTFILE=E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.bit
+FAMILY=Spartan6
+PART=xc6slx9-3tqg144
+WORKINGDIR=E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker
+LICENSE=WebPack
+USER_INFO=__0_0_0
