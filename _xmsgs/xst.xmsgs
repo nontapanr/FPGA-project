@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf" Line 841: Net &lt;<arg fmt="%s" index="1">jkhbbshcac_I3_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf" Line 842: Net &lt;<arg fmt="%s" index="1">XLXI_5_I2_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf" Line 843: Net &lt;<arg fmt="%s" index="1">XLXI_5_I3_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf" Line 844: Net &lt;<arg fmt="%s" index="1">XLXI_6_I3_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf" Line 845: Net &lt;<arg fmt="%s" index="1">XLXI_6_I4_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf" Line 846: Net &lt;<arg fmt="%s" index="1">XLXI_6_I5_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf" Line 847: Net &lt;<arg fmt="%s" index="1">XLXI_7_I4_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf" Line 848: Net &lt;<arg fmt="%s" index="1">XLXI_10_I3_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf" Line 849: Net &lt;<arg fmt="%s" index="1">XLXI_20_I0_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="new" >"E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf" Line 2208: Net &lt;<arg fmt="%s" index="1">XLXI_157_A0_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">2500</arg>: Output port &lt;<arg fmt="%s" index="3">CEO</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_123</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">2500</arg>: Output port &lt;<arg fmt="%s" index="3">Q3</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_123</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">2500</arg>: Output port &lt;<arg fmt="%s" index="3">TC</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_123</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">2532</arg>: Output port &lt;<arg fmt="%s" index="3">CEO</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_139</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">2532</arg>: Output port &lt;<arg fmt="%s" index="3">Q2</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_139</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">2532</arg>: Output port &lt;<arg fmt="%s" index="3">Q3</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_139</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">2532</arg>: Output port &lt;<arg fmt="%s" index="3">TC</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_139</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">2546</arg>: Output port &lt;<arg fmt="%s" index="3">D0</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_157</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">2594</arg>: Output port &lt;<arg fmt="%s" index="3">Buzzer</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_224</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">2608</arg>: Output port &lt;<arg fmt="%s" index="3">D1</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_232</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">XLXI_157_A0_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">1736</arg>: Output port &lt;<arg fmt="%s" index="3">D8</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_1</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">1414</arg>: Output port &lt;<arg fmt="%s" index="3">CEO</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_106</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">1414</arg>: Output port &lt;<arg fmt="%s" index="3">TC</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_106</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">1222</arg>: Output port &lt;<arg fmt="%s" index="3">Bit0_P82</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_2</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">1222</arg>: Output port &lt;<arg fmt="%s" index="3">Bit1_P81</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_2</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">1222</arg>: Output port &lt;<arg fmt="%s" index="3">Bit2_P80</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_2</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">1222</arg>: Output port &lt;<arg fmt="%s" index="3">Bit3_P79</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_2</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">1230</arg>: Output port &lt;<arg fmt="%s" index="3">Bit0_P82</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_3</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">1230</arg>: Output port &lt;<arg fmt="%s" index="3">Bit1_P81</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_3</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">1230</arg>: Output port &lt;<arg fmt="%s" index="3">Bit2_P80</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_3</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">1230</arg>: Output port &lt;<arg fmt="%s" index="3">Bit3_P79</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_3</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">1238</arg>: Output port &lt;<arg fmt="%s" index="3">Bit0_P82</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_4</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">1238</arg>: Output port &lt;<arg fmt="%s" index="3">Bit1_P81</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_4</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">1238</arg>: Output port &lt;<arg fmt="%s" index="3">Bit2_P80</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_4</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">1238</arg>: Output port &lt;<arg fmt="%s" index="3">Bit3_P79</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_4</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">1246</arg>: Output port &lt;<arg fmt="%s" index="3">Bit0_P82</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_5</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">1246</arg>: Output port &lt;<arg fmt="%s" index="3">Bit1_P81</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_5</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">1246</arg>: Output port &lt;<arg fmt="%s" index="3">Bit2_P80</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_5</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">1246</arg>: Output port &lt;<arg fmt="%s" index="3">Bit3_P79</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_5</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">1254</arg>: Output port &lt;<arg fmt="%s" index="3">Bit0_P82</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_6</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">1254</arg>: Output port &lt;<arg fmt="%s" index="3">Bit1_P81</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_6</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">1254</arg>: Output port &lt;<arg fmt="%s" index="3">Bit2_P80</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_6</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">1254</arg>: Output port &lt;<arg fmt="%s" index="3">Bit3_P79</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_6</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">944</arg>: Output port &lt;<arg fmt="%s" index="3">D8</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_1</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">jkhbbshcac_I3_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_5_I2_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_5_I3_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_6_I3_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_6_I4_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_6_I5_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_7_I4_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_10_I3_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_20_I0_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">742</arg>: Output port &lt;<arg fmt="%s" index="3">CEO</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_10</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">742</arg>: Output port &lt;<arg fmt="%s" index="3">Q0</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_10</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">742</arg>: Output port &lt;<arg fmt="%s" index="3">TC</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_10</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">753</arg>: Output port &lt;<arg fmt="%s" index="3">CEO</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_11</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">753</arg>: Output port &lt;<arg fmt="%s" index="3">Q0</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_11</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">753</arg>: Output port &lt;<arg fmt="%s" index="3">Q1</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_11</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\62010453\Digital System Coding\FINAL Assignment\Digital_Locker\Digital_Locker.vhf</arg>&quot; line <arg fmt="%s" index="2">753</arg>: Output port &lt;<arg fmt="%s" index="3">TC</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_11</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">XLXI_3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">XLXI_224</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">COUNT_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">XLXI_139</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">COUNT_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">XLXI_139</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">COUNT_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">XLXI_123</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">XLXI_224/XLXI_3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">Digital_Locker</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="info" file="Xst" num="2169" delta="old" >HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
+</msg>
+
+</messages>
+

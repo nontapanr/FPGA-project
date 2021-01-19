@@ -1,0 +1,1 @@
+sch2sym -intstyle ise -family spartan6 -w -refsym Buzzer_Check {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/Buzzer_Check.sch} {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/Buzzer_Check.sym} 

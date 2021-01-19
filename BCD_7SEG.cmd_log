@@ -1,0 +1,14 @@
+sch2sym -intstyle ise -family spartan6 -refsym BCD_7SEG {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/BCD_7SEG.sch} {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/BCD_7SEG.sym} 
+sch2sym -intstyle ise -family spartan6 -refsym BCD_7SEG {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/BCD_7SEG.sch} {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/BCD_7SEG.sym} 
+sch2sym -intstyle ise -family spartan6 -refsym BCD_7SEG {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/BCD_7SEG.sch} {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/BCD_7SEG.sym} 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl BCD_7SEG_drc.vhf -w {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/BCD_7SEG.sch} 
+sch2vhdl -intstyle ise -family spartan6 -tionly -w {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/BCD_7SEG.sch} BCD_7SEG.vhi 
+sch2sym -intstyle ise -family spartan6 -refsym BCD_7SEG {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/BCD_7SEG.sch} {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/BCD_7SEG.sym} 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl BCD_7SEG_drc.vhf -w {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/BCD_7SEG.sch} 
+sch2sym -intstyle ise -family spartan6 -refsym BCD_7SEG {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/BCD_7SEG.sch} {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/BCD_7SEG.sym} 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl BCD_7SEG_drc.vhf -w {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/BCD_7SEG.sch} 
+sch2sym -intstyle ise -family spartan6 -refsym BCD_7SEG {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/BCD_7SEG.sch} {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/BCD_7SEG.sym} 
+sch2sym -intstyle ise -family spartan6 -refsym BCD_7SEG {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/BCD_7SEG.sch} {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/BCD_7SEG.sym} 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl BCD_7SEG_drc.vhf -w {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/BCD_7SEG.sch} 
+sch2sym -intstyle ise -family spartan6 -refsym BCD_7SEG {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/BCD_7SEG.sch} {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/BCD_7SEG.sym} 
+sch2sym -intstyle ise -family spartan6 -refsym BCD_7SEG {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/BCD_7SEG.sch} {E:/62010453/Digital System Coding/FINAL Assignment/Digital_Locker/BCD_7SEG.sym} 
